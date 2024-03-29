@@ -1,0 +1,1 @@
+# aws_lambda_processamento_de_imagens
